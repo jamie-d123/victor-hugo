@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/eb0e71ea-e683-4e5f-9e26-edb503067345/deploy-status)](https://app.netlify.com/sites/jamie-dixon/deploys)
+
 # Victor Hugo
 
 **A Hugo boilerplate for creating truly epic websites**
